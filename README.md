@@ -10,7 +10,8 @@ Example of command line arguments:
 ./sudoku_file <PATH_TO_INPUT_FILE> <MODE>
 ./sudoku_file input/16x16_hard.txt 4
 Example of how I passed arguments in Visual Studio: ‘Select in VS - Project -> Properties’
- 
+
+ ![alt text](https://github.com/AnaghaDhekne/Parallel-Programming-Sudoku/blob/02edf4b100f39ce7dec0d025c77087cee8e89210/img/Picture1.png)
 
 Output:
  
